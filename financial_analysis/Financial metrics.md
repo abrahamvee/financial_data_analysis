@@ -10,11 +10,13 @@ Possible examples:
 	- Debt management?
 	- Net Worth?
 
+
 ## Data collection
 
 How is it done? A form? Manual input by the user?
 
 #future Allow users to set recurring transactions?
+
 
 ### Data pipeline
 Review about the data pipeline. What is it? Example: 1. Ingestion, 2. Transformation, 3. Storage, 4. Analysis, 5. Visualization and 6. Output

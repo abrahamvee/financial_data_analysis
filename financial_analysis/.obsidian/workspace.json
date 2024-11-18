@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GUI.md",
+                "file": "Data Collection/Financial metrics investigation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GUI"
+              "title": "Financial metrics investigation"
             }
           },
           {
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8bf045f4be4f571d",
@@ -197,10 +196,17 @@
   },
   "active": "801bc47814f3caa8",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Financial metrics.md",
+    "Data Collection/Data collection.md",
+    "GUI/Dashboard.md",
+    "Data Collection/Financial metrics investigation.md",
+    "WhatsApp Image 2024-11-18 at 03.34.06.jpeg",
+    "GUI/Untitled",
+    "GUI",
     "GUI.md",
+    "Untitled",
     "Project Planning.md",
-    "Data collection.md"
+    "Data Collection",
+    "Financial metrics.md",
+    "Welcome.md"
   ]
 }
